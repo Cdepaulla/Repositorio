@@ -24,9 +24,10 @@ npm run lint        # eslint em src/
 index.html              entrada do Vite
 vite.config.ts           plugin do Vue 2, alias @ -> src
 src/
-  main.ts                Vue, BootstrapVue, SCSS global, diretiva v-reveal
-  App.vue                idioma (PT/EN), barra de progresso, fundo animado
+  main.ts                Vue, SCSS global, diretiva v-reveal
+  App.vue                idioma (PT/EN), tema claro/escuro, barra de progresso, fundo animado
   types/lang.ts           type Lang = 'pt' | 'en'
+  types/theme.ts          type Theme = 'dark' | 'light'
   directives/reveal.ts    v-reveal — entrada suave das seções ao rolar
   styles/                 _variables.scss (tema) e global.scss (reset, utilitários)
   components/
@@ -35,7 +36,7 @@ src/
     SecaoPrincipal.vue                   hero
     TituloSecao.vue                      título reutilizável (slots annotation + title)
     SecaoSobre.vue, SecaoTecnologias.vue, SecaoExperiencia.vue,
-    SecaoFormacao.vue, SecaoProjetos.vue, SecaoRecomendacoes.vue, SecaoContato.vue
+    SecaoFormacao.vue, SecaoProjetos.vue, SecaoContato.vue
 ```
 
 ## Tema
