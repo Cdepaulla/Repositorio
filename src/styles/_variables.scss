@@ -1,0 +1,38 @@
+// Cores em custom properties (src/styles/global.scss) para suportar modo claro/escuro.
+// Mude os valores lá para trocar o tema do site inteiro.
+$accent:        var(--accent);
+$accent-dark:   var(--accent-dark);
+$accent-light:  var(--accent-light);
+$on-accent:     var(--on-accent);
+$accent-strong: var(--accent-strong);
+$accent-strong-dark: var(--accent-strong-dark);
+// paleta do VS Code Dark+ para os trechos no fundo (decorativo, fixo nos dois temas)
+$vs-kw:     #569cd6;
+$vs-ctl:    #c586c0;
+$vs-str:    #ce9178;
+$vs-fn:     #dcdcaa;
+$vs-type:   #4ec9b0;
+$vs-var:    #9cdcfe;
+$vs-cm:     #6a9955;
+$vs-plain:  #d4d4d4;
+
+$bg:            var(--bg);
+$bg-card:       var(--bg-card);
+$bg-deep:       var(--bg-deep);
+$border:        var(--border);
+$header-bg:     var(--header-bg);
+$badge-bg:      var(--badge-bg);
+
+$text:          var(--text);
+$text-soft:     var(--text-soft);
+$text-muted:    var(--text-muted);
+$text-bright:   var(--text-bright);
+
+$font-display:  'Space Grotesk', system-ui, sans-serif;
+$font-mono:     'JetBrains Mono', ui-monospace, monospace;
+$font-body:     'IBM Plex Sans', system-ui, sans-serif;
+
+$radius:        14px;
+$radius-sm:     8px;
+$max-width:     1440px;
+$gutter:        48px;

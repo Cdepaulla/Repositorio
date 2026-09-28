@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "esnext",
+    "strict": true,
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "isolatedModules": true,
+    "sourceMap": true,
+    "baseUrl": ".",
+    "types": ["vite/client"],
+    "paths": { "@/*": ["src/*"] },
+    "lib": ["esnext", "dom", "dom.iterable"]
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/vite-env.d.ts"
+  ],
+  "exclude": ["node_modules"]
+}
