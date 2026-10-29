@@ -25,6 +25,11 @@
         <span class="contact__value mono">caiodepaulladp@gmail.com ↗</span>
       </a>
 
+      <a class="contact__row" href="https://wa.me/5511959716258" target="_blank" rel="noopener">
+        <span class="contact__label mono">WhatsApp</span>
+        <span class="contact__value mono">+55 11 95971-6258 ↗</span>
+      </a>
+
       <a
         class="contact__row"
         href="https://www.linkedin.com/in/caio-pereira-de-paula-b50864227/"
