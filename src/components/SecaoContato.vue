@@ -32,12 +32,12 @@
 
       <a
         class="contact__row"
-        href="https://www.linkedin.com/in/caio-pereira-de-paula-b50864227/"
+        href="https://www.linkedin.com/in/caio-de-paula/"
         target="_blank"
         rel="noopener"
       >
         <span class="contact__label mono">LinkedIn</span>
-        <span class="contact__value mono">in/caio-pereira-de-paula ↗</span>
+        <span class="contact__value mono">in/caio-de-paula ↗</span>
       </a>
 
       <a class="contact__row" href="https://github.com/Cdepaulla" target="_blank" rel="noopener">

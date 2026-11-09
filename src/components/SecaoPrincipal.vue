@@ -37,7 +37,7 @@
       </div>
 
       <div class="hero__links mono">
-        <a href="https://www.linkedin.com/in/caio-pereira-de-paula-b50864227/" target="_blank" rel="noopener">LinkedIn ↗</a>
+        <a href="https://www.linkedin.com/in/caio-de-paula/" target="_blank" rel="noopener">LinkedIn ↗</a>
         <a href="https://github.com/Cdepaulla" target="_blank" rel="noopener">GitHub ↗</a>
         <a href="mailto:caiodepaulladp@gmail.com">E-mail ↗</a>
       </div>
